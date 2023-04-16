@@ -1,6 +1,7 @@
 # Hiling.id
 
 &nbsp;
+this version using redux thunk for request API from <a href="https://ifconfig.me/all.json">ifconfig.me</a> see result in home preview <br/>
 Apk Preview
 
 ---

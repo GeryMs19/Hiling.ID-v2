@@ -80,8 +80,8 @@ Then wait and follow the instruction if it the first build, generate a new key a
 - ["react-native-screens": "~3.15.0"](https://docs.expo.dev/versions/latest/sdk/screens/),
 - ["nativewind": "^2.0.11"](https://www.nativewind.dev/quick-starts/expo)
 - ["@expo/vector-icons": "13.0.0"](https://icons.expo.fyi/)
-- ["redux-thunk@2.4.2"]
-- ["jest@29.5.0"]
-- ["redux-mock-store@1.5.4"]
-- ["axios@1.3.5"]
-- ["axios-mock-adapter@1.21.4"]
+- ["redux-thunk@2.4.2"](https://www.npmjs.com/package/redux-thunk)
+- ["jest@29.5.0"](https://jestjs.io/docs/configuration)
+- ["redux-mock-store@1.5.4"](https://www.npmjs.com/package/redux-mock-store)
+- ["axios@1.3.5"](https://axios-http.com/docs/intro)
+- ["axios-mock-adapter@1.21.4"](https://www.npmjs.com/package/axios-mock-adapter)

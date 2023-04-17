@@ -1,7 +1,7 @@
 # Hiling.id
 
-&nbsp;
-this version using redux thunk for request API from <a href="https://ifconfig.me/all.json">ifconfig.me</a> see result in home preview <br/>
+
+this version using redux thunk for request API from <a href="https://ifconfig.me/all.json">ifconfig.me</a> see result in home preview or click <a href="https://expo.dev/artifacts/eas/epbiB1tVapc8rgnGteVWwG.apk">download</a>  <br/>
 Apk Preview
 
 ---

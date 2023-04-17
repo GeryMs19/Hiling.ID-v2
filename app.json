@@ -25,14 +25,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mhhadiiar.hilingid"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.gery.com"
     },
     "extra": {
       "eas": {
-        "projectId": "aab76e4c-3cd9-48dd-812c-16bc878c9eaf"
+        "projectId": "8bd9f7eb-c597-43d0-91fa-29c92167ac46"
       }
     }
   }
